@@ -1,5 +1,5 @@
-# HFLR
-code for HFLR
+# HFLR: Optimizing GNN Training via High-Fixed-Low-Resampling
+Accepted by ICASSP 2025
 
 ### How to Run
 Download dataset from [Google Drive link](https://drive.google.com/drive/folders/1zycmmDES39zVlbVCYs88JTJ1Wm5FbfLz) or [BaiduYun link(code:f1ao)](https://pan.baidu.com/share/init?surl=SOb0SiSAXavwAcNqkttwcg) and put it at correct place:
